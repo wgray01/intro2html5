@@ -1,0 +1,26 @@
+{
+  "name": "intro2html5",
+  "version": "1.0.0",
+  "description": "Intorduction to html5 lab files",
+  "scripts": {
+    "test": "node .bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salsada/intro2html5.git"
+  },
+  "keywords": [
+    "web7215",
+    "html5",
+    "cpcc"
+  ],
+  "author": "Alberto Botero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salsada/intro2html5/issues"
+  },
+  "homepage": "https://github.com/salsada/intro2html5#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
