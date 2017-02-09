@@ -1,7 +1,8 @@
-p {
-    color: red;
+ul {
+    list-style: none;
 }
 
-strong {
-    color: blue;
+nav li {
+    float: left;
+    padding: 10px;
 }
